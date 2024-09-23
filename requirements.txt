@@ -1,0 +1,4 @@
+selene >= 2.0.0rc9
+Faker >= 28.4.1
+sympy >= 1.13.2
+pytest >= 8.3.3
