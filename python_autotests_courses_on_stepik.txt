@@ -1,0 +1,17 @@
+01. Автоматизация тестирования с помощью Selenium и Python
+https://stepik.org/course/575
+
+02. Павел Хошев - Selenium Python
+https://stepik.org/course/119495
+
+03. Алекс Смит - Тестирование ПО:Автоматизация и Программирование.Python.Selenium
+https://stepik.org/course/120491
+
+04. Алекс Смит - Тестирование ПО: Автоматизация и Программирование на Python. API
+https://stepik.org/course/127716
+
+05. Антон Зимаев - Автоматизация тестирования с помощью Playwright Python
+https://stepik.org/course/128626
+
+06. Алексей Коледачкин - "Selenium на Python" от Алексея Коледачкина
+https://stepik.org/course/188355
