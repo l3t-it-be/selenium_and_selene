@@ -3,7 +3,8 @@
 
 ### Документация: https://yashaka.github.io/selene/
 ### Презентация: https://www.youtube.com/watch?v=yv0Qpkdh-pc
-### Краткая шпаргалка по основным командам Selene: https://autotest.how/selene-cheatsheet-md
+### Краткая шпаргалка по основным командам Selene: 
+### https://autotest.how/selene-cheatsheet-md
 
 ### Преимущества:
 
